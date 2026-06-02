@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-06-02T12:00:00Z",
+  "stores": [
+    {
+      "id": "euroopt",
+      "name": "Евроопт",
+      "designs": [
+        {
+          "id": "euroopt_dark",
+          "imageName": "euroopt",
+          "primaryColor": "#1D1F29",
+          "secondaryColor": "#1D1F29"
+        }
+      ]
+    },
+    {
+      "id": "santa",
+      "name": "Санта",
+      "designs": [
+        {
+          "id": "santa_blue",
+          "primaryColor": "#0066B3",
+          "secondaryColor": "#1A8CD9"
+        }
+      ]
+    },
+    {
+      "id": "kopeechka",
+      "name": "Копеечка",
+      "designs": [
+        {
+          "id": "kopeechka_orange",
+          "primaryColor": "#FA9900",
+          "secondaryColor": "#FFBF33"
+        }
+      ]
+    },
+    {
+      "id": "mayak",
+      "name": "Маяк",
+      "designs": [
+        {
+          "id": "mayak_blue",
+          "primaryColor": "#0059A6",
+          "secondaryColor": "#1A80CC"
+        }
+      ]
+    },
+    {
+      "id": "gemma",
+      "name": "Гемма",
+      "designs": [
+        {
+          "id": "gemma_purple",
+          "primaryColor": "#800080",
+          "secondaryColor": "#B233B2"
+        }
+      ]
+    },
+    {
+      "id": "materik",
+      "name": "Материк",
+      "designs": [
+        {
+          "id": "materik_green",
+          "primaryColor": "#00804D",
+          "secondaryColor": "#26A666"
+        }
+      ]
+    },
+    {
+      "id": "mile",
+      "name": "Mile",
+      "designs": [
+        {
+          "id": "mile_red",
+          "primaryColor": "#E63340",
+          "secondaryColor": "#FF5966"
+        }
+      ]
+    },
+    {
+      "id": "green",
+      "name": "Грин",
+      "designs": [
+        {
+          "id": "green_main",
+          "primaryColor": "#00A652",
+          "secondaryColor": "#33CC78"
+        }
+      ]
+    },
+    {
+      "id": "sosedi",
+      "name": "Соседи",
+      "designs": [
+        {
+          "id": "sosedi_yellow",
+          "primaryColor": "#FFB81C",
+          "secondaryColor": "#FFD166"
+        }
+      ]
+    },
+    {
+      "id": "belita",
+      "name": "Белита",
+      "designs": [
+        {
+          "id": "belita_pink",
+          "primaryColor": "#E81F64",
+          "secondaryColor": "#F58FAF"
+        }
+      ]
+    },
+    {
+      "id": "vitalur",
+      "name": "Виталюр",
+      "designs": [
+        {
+          "id": "vitalur_orange",
+          "primaryColor": "#F28019",
+          "secondaryColor": "#FFB34D"
+        }
+      ]
+    },
+    {
+      "id": "prostore",
+      "name": "ProStore",
+      "designs": [
+        {
+          "id": "prostore_blue",
+          "primaryColor": "#0073BF",
+          "secondaryColor": "#3399D9"
+        }
+      ]
+    },
+    {
+      "id": "almi",
+      "name": "Алми",
+      "designs": [
+        {
+          "id": "almi_green",
+          "primaryColor": "#339933",
+          "secondaryColor": "#66BF66"
+        }
+      ]
+    },
+    {
+      "id": "moe",
+      "name": "Моё",
+      "designs": [
+        {
+          "id": "moe_blue",
+          "primaryColor": "#1A4D99",
+          "secondaryColor": "#4073BF"
+        }
+      ]
+    },
+    {
+      "id": "belmarket",
+      "name": "Белмаркет",
+      "designs": [
+        {
+          "id": "belmarket_red",
+          "primaryColor": "#CC1A26",
+          "secondaryColor": "#E6404D"
+        }
+      ]
+    },
+    {
+      "id": "ostrov",
+      "name": "Остров Чистоты",
+      "designs": [
+        {
+          "id": "ostrov_blue",
+          "primaryColor": "#0066B3",
+          "secondaryColor": "#268CD9"
+        }
+      ]
+    },
+    {
+      "id": "cosmo",
+      "name": "Космо",
+      "designs": [
+        {
+          "id": "cosmo_purple",
+          "primaryColor": "#663399",
+          "secondaryColor": "#9959BF"
+        }
+      ]
+    },
+    {
+      "id": "mila",
+      "name": "Мила",
+      "designs": [
+        {
+          "id": "mila_pink",
+          "primaryColor": "#E64D80",
+          "secondaryColor": "#F280A6"
+        }
+      ]
+    },
+    {
+      "id": "five_element",
+      "name": "5 Элемент",
+      "designs": [
+        {
+          "id": "five_element_red",
+          "primaryColor": "#D92633",
+          "secondaryColor": "#F24D59"
+        }
+      ]
+    },
+    {
+      "id": "electronica",
+      "name": "Электроника",
+      "designs": [
+        {
+          "id": "electronica_blue",
+          "primaryColor": "#1A5999",
+          "secondaryColor": "#3380CC"
+        }
+      ]
+    }
+  ]
+}
