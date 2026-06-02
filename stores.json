@@ -11,6 +11,12 @@
           "imageName": "euroopt",
           "primaryColor": "#1D1F29",
           "secondaryColor": "#1D1F29"
+        },
+        {
+          "id": "euroopt_green",
+          "imageName": "euroopt",
+          "primaryColor": "#00FF00",
+          "secondaryColor": "#00FF00"
         }
       ]
     },
