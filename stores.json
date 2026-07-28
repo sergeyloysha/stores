@@ -12,7 +12,8 @@
     {
       "id": "santa",
       "name": "Санта",
-      "primaryColor": "#0066B3",
+      "logo": "https://raw.githubusercontent.com/sergeyloysha/stores/refs/heads/main/santa.png",
+      "primaryColor": "#00ADE9",
       "secondaryColor": "#1A8CD9"
     },
     {
