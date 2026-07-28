@@ -1,11 +1,11 @@
 {
-  "version": 4,
+  "version": 1,
   "lastUpdated": "2026-06-02T12:00:00Z",
   "stores": [
     {
       "id": "euroopt",
       "name": "Евроопт",
-      "logo": "https://raw.githubusercontent.com/sergeyloysha/stores/refs/heads/main/evroopt.webp",
+      "logo": "https://raw.githubusercontent.com/sergeyloysha/stores/refs/heads/main/evroopt.png",
       "primaryColor": "#1D1F29",
       "secondaryColor": "#3D4254"
     },
