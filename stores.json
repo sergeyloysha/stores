@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "lastUpdated": "2026-06-02T12:00:00Z",
   "stores": [
     {
@@ -43,8 +43,8 @@
     {
       "id": "materik",
       "name": "Материк",
-      "primaryColor": "#00804D",
-      "secondaryColor": "#26A666"
+      "primaryColor": "#F3F3F3",
+      "secondaryColor": "#F3F3F3"
     },
     {
       "id": "mile",
