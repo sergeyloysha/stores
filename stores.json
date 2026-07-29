@@ -17,6 +17,12 @@
       "secondaryColor": "#1A8CD9"
     },
     {
+      "id": "korona",
+      "name": "Корона",
+      "primaryColor": "#F9683A",
+      "secondaryColor": "#F9683A"
+    },
+    {
       "id": "kopeechka",
       "name": "Копеечка",
       "primaryColor": "#FA9900",
@@ -31,8 +37,8 @@
     {
       "id": "gemma",
       "name": "Гемма",
-      "primaryColor": "#800080",
-      "secondaryColor": "#B233B2"
+      "primaryColor": "#0c3b6e",
+      "secondaryColor": "#0c3b6e"
     },
     {
       "id": "materik",
@@ -43,8 +49,8 @@
     {
       "id": "mile",
       "name": "Mile",
-      "primaryColor": "#E63340",
-      "secondaryColor": "#FF5966"
+      "primaryColor": "#EF6B01",
+      "secondaryColor": "#EF6B01"
     },
     {
       "id": "green",
