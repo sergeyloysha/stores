@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "lastUpdated": "2026-06-02T12:00:00Z",
   "stores": [
     {
@@ -8,6 +8,12 @@
       "logo": "https://raw.githubusercontent.com/sergeyloysha/stores/refs/heads/main/evroopt.png",
       "primaryColor": "#1D1F29",
       "secondaryColor": "#3D4254"
+    },
+    {
+      "id": "groshyk",
+      "name": "Грошык",
+      "primaryColor": "#FFFF00",
+      "secondaryColor": "#FFFF00"
     },
     {
       "id": "santa",
