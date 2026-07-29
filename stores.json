@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "lastUpdated": "2026-06-02T12:00:00Z",
   "stores": [
     {
@@ -12,8 +12,8 @@
     {
       "id": "groshyk",
       "name": "Грошык",
-      "primaryColor": "#FFFF00",
-      "secondaryColor": "#FFFF00"
+      "primaryColor": "#FFB500",
+      "secondaryColor": "#FFB500"
     },
     {
       "id": "santa",
